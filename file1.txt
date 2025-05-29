@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 common line in master
+=======
+common line in feature
+>>>>>>> feature
